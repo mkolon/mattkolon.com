@@ -20,7 +20,7 @@ title: About
 
     - We now live near Vermont's [**Mt Mansfield**](https://en.wikipedia.org/wiki/Mount_Mansfield){:target="_blank"}. I sometimes [**take pictures**](https://photos.app.goo.gl/5XAN8cZtD3x7Abu79){:target="_blank"} of it.
     
-    - When we lived in Beijing, we got a cat, who has somehow followed us through<br>three countries and across an ocean. She [likes dessert](/assets/kiki.mov) and has [a pedigree](/assets/kiki.png).
+    - When we lived in Beijing, we got a cat, who has somehow followed us through<br>three countries and across an ocean. She [likes dessert](/assets/kiki.mov) and has [quite a pedigree](/assets/kiki.png).
   
 - [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell,<br>and regulate telecommunications and networking solutions. I'm the CTO there.
 
@@ -32,7 +32,7 @@ title: About
 
 - Busy life interrupted my childhood reading addiction, which I'm [**now feeding again**](https://bit.ly/3Zstavx){:target="_blank"}. 
 
-- The eternal genius [**Claude Shannon**](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from [the same high school](https://ghs.gaylordschools.com/). 
+- The eternal genius [**Claude Shannon**](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/). 
 
 - My [professional resume](https://www.linkedin.com/in/mkolon/){:target="_blank"} might be graphically summarized like this:<br>
 <img src="/assets/paths.png" alt="Paths" height="130" width="650"> 
