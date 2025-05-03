@@ -20,7 +20,7 @@ title: About
 
     - We now live near Vermont's [**Mt Mansfield**](https://en.wikipedia.org/wiki/Mount_Mansfield){:target="_blank"}. I sometimes [**take pictures**](https://photos.app.goo.gl/5XAN8cZtD3x7Abu79){:target="_blank"} of it.
     
-    - When we lived in Beijing, we got a cat, who has somehow followed us through<br>three countries and across an ocean.<br>She [likes dessert](/assets/kiki.mov) and has [a pedigree](/assets/kiki.png).
+    - When we lived in Beijing, we got a cat, who has somehow followed us through<br>three countries and across an ocean. She [likes dessert](/assets/kiki.mov) and has [a pedigree](/assets/kiki.png).
   
 - [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell,<br>and regulate telecommunications and networking solutions. I'm the CTO there.
 
