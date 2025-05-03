@@ -8,7 +8,7 @@ title: About
 
 - This is my personal site, in place of most social media. 
 
-- My email is **matt@kolon.org**. I'm also [**boingit.88**](https://signal.me/#eu/0mnzJONCOTGpVnbYwZp3Q4Pesw5uaf-yKadA9FenBbIs76iw4CdI0qzSCuQdIvke) on [**Signal**](https://signal.org/).
+- My email is [**matt@kolon.org**](mailto:matt@kolon.org). I'm also [**boingit.88**](https://signal.me/#eu/0mnzJONCOTGpVnbYwZp3Q4Pesw5uaf-yKadA9FenBbIs76iw4CdI0qzSCuQdIvke) on [**Signal**](https://signal.org/).
 
 - Thank God I'm married to the amazing artist [**Patty Hudak**](https://www.pattyhudak.com/){:target="_blank"}. 
 
