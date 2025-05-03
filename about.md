@@ -22,13 +22,15 @@ title: About
   
 - [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell,<br>and regulate telecommunications and networking solutions. I'm the CTO there.
 
-- I'm also a founding board member of [Mansfield Community Fiber](https://www.mcfibervt.com/){:target="_blank"}.
+- With the help of a little LLM-based artificial intelligence, [I write some code](https://github.com/mkolon).
+
+- I'm also a founding board member of [**Mansfield Community Fiber**](https://www.mcfibervt.com/){:target="_blank"}.
 
 - Various [**outdoor sports**](https://www.strava.com/athletes/25264732){:target="_blank"} are regular preoccupations of mine. 
 
 - Busy life interrupted my childhood reading addiction, which I'm [**now feeding again**](https://bit.ly/3Zstavx){:target="_blank"}. 
 
-- The eternal genius [**Claude Shannon**](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from GHS, 52 years apart. 
+- The eternal genius [**Claude Shannon**](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from [the same high school](https://ghs.gaylordschools.com/), 52 years apart. 
 
 - My professional resume looks something like this:<br>
 <img src="/assets/paths.png" alt="Paths" height="130" width="650"> <br>
