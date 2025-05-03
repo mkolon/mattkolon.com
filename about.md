@@ -19,6 +19,8 @@ title: About
     - Between 2005 and 2017 we lived in [香港](https://en.wikipedia.org/wiki/Hong_Kong "Hong Kong"), [北京](https://en.wikipedia.org/wiki/Beijing "Beijing"), and [東京](https://en.wikipedia.org/wiki/Tokyo "Tokyo").
 
     - We now live near Vermont's [**Mt Mansfield**](https://en.wikipedia.org/wiki/Mount_Mansfield){:target="_blank"}. I sometimes [**take pictures**](https://photos.app.goo.gl/5XAN8cZtD3x7Abu79){:target="_blank"} of it.
+    
+    - When we lived in Beijing, we got a cat. She [likes cream](/assets/kiki.mov) and has [a pedigree](/assets/kiki.png).
   
 - [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell,<br>and regulate telecommunications and networking solutions. I'm the CTO there.
 
