@@ -24,9 +24,12 @@ title: About
   
 - [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell,<br>and regulate telecommunications and networking solutions. I'm the CTO there.
 
-- With the help of a little LLM-based artificial intelligence, [I write a bit of code](https://github.com/mkolon).
-
 - I'm also a founding board member of [**Mansfield Community Fiber**](https://www.mcfibervt.com/){:target="_blank"}.
+
+- My [professional resume](https://www.linkedin.com/in/mkolon/){:target="_blank"} might be graphically summarized like this:<br>
+<img src="/assets/paths.png" alt="Paths" height="130" width="650"> 
+
+- With the help of a little LLM-based artificial intelligence, [I write a bit of code](https://github.com/mkolon).
 
 - Various [**outdoor sports**](https://www.strava.com/athletes/25264732){:target="_blank"} are regular preoccupations. 
 
@@ -34,5 +37,4 @@ title: About
 
 - The eternal genius [**Claude Shannon**](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/). 
 
-- My [professional resume](https://www.linkedin.com/in/mkolon/){:target="_blank"} might be graphically summarized like this:<br>
-<img src="/assets/paths.png" alt="Paths" height="130" width="650"> 
+
