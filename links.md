@@ -6,6 +6,7 @@ title: Links
 # Links
 Various shareable obsessions of the moment
 - My wife, the artist [Patty Hudak](https://www.pattyhudak.com/){:target="_blank"} 
+- Network-wide add blocking with [Pi-hole](https://pi-hole.net/)
 - [Home Assistant](https://www.home-assistant.io/)
 - [Bartosz Ciechanowski](https://ciechanow.ski/)
 - [EmptyWheel](https://www.emptywheel.net/)
