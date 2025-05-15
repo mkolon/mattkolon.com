@@ -12,7 +12,7 @@ title: About
 
 - Thank God I'm married to the amazing artist [**Patty Hudak**](https://www.pattyhudak.com/){:target="_blank"}. 
 
-    - Our offspring are limited to the unlimited [Carl Kolon](https://carlkolon.com){:target="_blank"} and [Nellie Kolon](https://www.linkedin.com/in/helena-nellie-kolon-8b4b3613a/){:target="_blank"}.
+    - Our offspring are limited to the unlimited [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://www.linkedin.com/in/helena-nellie-kolon-8b4b3613a/){:target="_blank"}.
 
     - We see [**many operas**](https://photos.app.goo.gl/oTQZExHTHNWzuFFu7){:target="_blank"} together, mostly at [**The Met**](https://www.metopera.org/){:target="_blank"} in NYC.
     
