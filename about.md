@@ -14,13 +14,13 @@ title: About
 
     - Our offspring are limited to the unlimited [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://www.linkedin.com/in/helena-nellie-kolon-8b4b3613a/){:target="_blank"}.
 
-    - We see [**many operas**](https://photos.app.goo.gl/oTQZExHTHNWzuFFu7){:target="_blank"} together, mostly at [**The Met**](https://www.metopera.org/){:target="_blank"} in NYC.
+    - Patty and I see [**many operas**](https://photos.app.goo.gl/oTQZExHTHNWzuFFu7){:target="_blank"} together, mostly at [**The Met**](https://www.metopera.org/){:target="_blank"} in NYC.
     
     - Between 2005 and 2017 we lived in [香港](https://en.wikipedia.org/wiki/Hong_Kong "Hong Kong"), [北京](https://en.wikipedia.org/wiki/Beijing "Beijing"), and [東京](https://en.wikipedia.org/wiki/Tokyo "Tokyo").
 
     - We now live near Vermont's [**Mt Mansfield**](https://en.wikipedia.org/wiki/Mount_Mansfield){:target="_blank"}. I sometimes [**take pictures**](https://photos.app.goo.gl/5XAN8cZtD3x7Abu79){:target="_blank"} of it.
     
-    - When we lived in Beijing, we got a cat, who has followed us across three<br>countries and an ocean. She [likes dessert](/assets/kiki.mov) and has [quite a pedigree](/assets/kiki.png).
+    - In Beijing we acquired a ca, who has followed us across three<br>countries and an ocean. She [likes dessert](/assets/kiki.mov) and has [quite a pedigree](/assets/kiki.png).
   
 - [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell,<br>and regulate telecommunications and networking solutions. I'm the CTO there.
 
