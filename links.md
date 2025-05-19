@@ -17,3 +17,4 @@ Various shareable obsessions of the moment
 - [Mansfield Community Fiber](https://mcfibervt.com/){:target="_blank"}
 - The fabulous [Mokuhanga Sisters](https://mokuhangasisters.com){:target="_blank"} collective
 - [Insight Meditation Society](https://www.dharma.org/) in in Barre, MA.
+- The CSA we belong to: [Jericho Settlers' Farm](https://www.jerichosettlersfarm.com/)
