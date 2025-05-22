@@ -29,7 +29,7 @@ title: About
 - My [professional resume](https://www.linkedin.com/in/mkolon/){:target="_blank"} might be graphically summarized like this:<br><br>
 <img src="/assets/paths.png" alt="Paths" height="120" width="650"> 
 
-- With the help of a little LLM-based artificial intelligence, [I write a bit of code](https://github.com/mkolon).
+- Often with the help of some LLM-based artificial intelligence, [I write a bit of code](https://github.com/mkolon).
 
 - Various [**outdoor sports**](https://www.strava.com/athletes/25264732){:target="_blank"} are regular preoccupations. 
 
