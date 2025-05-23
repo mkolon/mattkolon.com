@@ -27,7 +27,7 @@ title: About
 - I'm also a founding board member of [**Mansfield Community Fiber**](https://www.mcfibervt.com/){:target="_blank"}.
 
 - My [professional resume](https://www.linkedin.com/in/mkolon/){:target="_blank"} might be graphically summarized like this:<br><br>
-<img src="/assets/paths.png" alt="Paths" height="120" width="650"> 
+<img src="/assets/paths.png" alt="Paths" height="100" width="610"> 
 
 - Often with the help of some LLM-based artificial intelligence, [I write a bit of code](https://github.com/mkolon).
 
