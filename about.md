@@ -31,9 +31,9 @@ title: About
 
 - Often with the help of some LLM-based artificial intelligence, [I write a bit of code](https://github.com/mkolon).
 
-- Various [**outdoor sports**](https://www.strava.com/athletes/25264732){:target="_blank"} are regular preoccupations. 
+- Various (mostly outdoor) [**sports activities**](https://www.strava.com/athletes/25264732){:target="_blank"} are regular preoccupations of mine. 
 
-- Busy life interrupted my childhood reading addiction, which I'm [**now feeding again**](https://bit.ly/3Zstavx){:target="_blank"}. 
+- A busy life interrupted my childhood reading addiction, which I'm [**now feeding again**](https://bit.ly/3Zstavx){:target="_blank"}. 
 
 - The eternal genius [**Claude Shannon**](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/). 
 
