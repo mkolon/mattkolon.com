@@ -20,7 +20,7 @@ title: About
 
     - We now live near Vermont's [**Mt Mansfield**](https://en.wikipedia.org/wiki/Mount_Mansfield){:target="_blank"}. I sometimes [**take pictures**](https://photos.app.goo.gl/5XAN8cZtD3x7Abu79){:target="_blank"} of it.
     
-    - In Beijing we acquired a cat. She has followed us across three<br>countries and an ocean. She [likes dessert](/assets/kiki.mov) and has [quite a pedigree](/assets/kiki.png).
+    - In Beijing we somehow acquired a cat. She has followed us across three<br>countries and an ocean. She [likes dessert](/assets/kiki.mov) and has [quite a pedigree](/assets/kiki.png).
   
 - [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell,<br>and regulate telecommunications and networking solutions. I'm the CTO there.
 
@@ -31,10 +31,10 @@ title: About
 
 - Often with the help of some LLM-based artificial intelligence, [I write a bit of code](https://github.com/mkolon).
 
-- Various (mostly outdoor) [**sports activities**](https://www.strava.com/athletes/25264732){:target="_blank"} are regular preoccupations of mine. 
+- Various (mostly outdoor) [**sports activities**](https://www.strava.com/athletes/25264732){:target="_blank"} are regular preoccupations. 
 
-- A busy life interrupted my childhood reading addiction, which I'm [**now feeding again**](https://bit.ly/3Zstavx){:target="_blank"}. 
+- A busy middle age interrupted my youthful reading addiction, which I'm [**now feeding again**](https://bit.ly/3Zstavx){:target="_blank"}. 
 
-- The eternal genius [**Claude Shannon**](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/). 
+- The eternal genius [**Claude Shannon**](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/), 52 years apart. 
 
 
