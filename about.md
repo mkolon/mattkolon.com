@@ -12,7 +12,7 @@ title: About
 
 - Thank God I'm married to the amazing artist [**Patty Hudak**](https://www.pattyhudak.com/){:target="_blank"}. 
 
-    - Our offspring are limited to the unlimited [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://nelliekolon.com/){:target="_blank"}.
+    - Our offspring are limited to [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://nelliekolon.com/){:target="_blank"}, who seem pretty unlimited.
 
     - Patty and I see [**many operas**](https://photos.app.goo.gl/oTQZExHTHNWzuFFu7){:target="_blank"} together, mostly at [**The Met**](https://www.metopera.org/){:target="_blank"} in NYC.
     
@@ -20,7 +20,7 @@ title: About
 
     - We now live near Vermont's [**Mt Mansfield**](https://en.wikipedia.org/wiki/Mount_Mansfield){:target="_blank"}. I sometimes [**take pictures**](https://photos.app.goo.gl/5XAN8cZtD3x7Abu79){:target="_blank"} of it.
     
-    - In Beijing we somehow acquired a cat. She has followed us across three<br>countries and an ocean. She [likes dessert](/assets/kiki.mov) and has [quite a pedigree](/assets/kiki.png).
+    - In Beijing we were acquired by a cat. We have followed her across three<br>countries and an ocean. She [likes dessert](/assets/kiki.mov) and has [quite a pedigree](/assets/kiki.png).
   
 - [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell,<br>and regulate telecommunications and networking solutions. I'm the CTO there.
 
