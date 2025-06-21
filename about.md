@@ -10,7 +10,7 @@ title: About
 
 - My email is [**matt@kolon.org**](mailto:matt@kolon.org). I'm also [**boingit.88**](https://signal.me/#eu/0mnzJONCOTGpVnbYwZp3Q4Pesw5uaf-yKadA9FenBbIs76iw4CdI0qzSCuQdIvke) on [**Signal**](https://signal.org/).
 
-- Thank God I'm married to the amazing artist [**Patty Hudak**](https://www.pattyhudak.com/){:target="_blank"}. 
+- I met the amazing artist [**Patty Hudak**](https://www.pattyhudak.com/){:target="_blank"} in Brookyn in 1991. Thank God she married me four years later.
 
     - Our offspring are limited to [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://nelliekolon.com/){:target="_blank"}, who seem pretty unlimited.
 
