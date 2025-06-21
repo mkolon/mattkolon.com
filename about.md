@@ -10,13 +10,13 @@ title: About
 
 - My email is [**matt@kolon.org**](mailto:matt@kolon.org). I'm also [**boingit.88**](https://signal.me/#eu/0mnzJONCOTGpVnbYwZp3Q4Pesw5uaf-yKadA9FenBbIs76iw4CdI0qzSCuQdIvke) on [**Signal**](https://signal.org/).
 
-- I met the amazing artist [**Patty Hudak**](https://www.pattyhudak.com/){:target="_blank"} in Brookyn in 1991. Thank God she married me four years later.
+- Thank God I met the amazing artist [**Patty Hudak**](https://www.pattyhudak.com/){:target="_blank"} in Brookyn in 1991.
 
-    - Our offspring are limited to [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://nelliekolon.com/){:target="_blank"}, who seem pretty unlimited.
+    - Our offspring are limited to [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://nelliekolon.com/){:target="_blank"}, both quite unlimited.
 
-    - Patty and I see [**many operas**](https://photos.app.goo.gl/oTQZExHTHNWzuFFu7){:target="_blank"} together, mostly at [**The Met**](https://www.metopera.org/){:target="_blank"} in NYC.
+    - We see [**many operas**](https://photos.app.goo.gl/oTQZExHTHNWzuFFu7){:target="_blank"} together, mostly at [**The Met**](https://www.metopera.org/){:target="_blank"} in NYC.
     
-    - Between 2005 and 2017 we lived in [香港](https://en.wikipedia.org/wiki/Hong_Kong "Hong Kong"), [北京](https://en.wikipedia.org/wiki/Beijing "Beijing"), and [東京](https://en.wikipedia.org/wiki/Tokyo "Tokyo").
+    - Between 2005 and 2017 we all lived in [香港](https://en.wikipedia.org/wiki/Hong_Kong "Hong Kong"), [北京](https://en.wikipedia.org/wiki/Beijing "Beijing"), and [東京](https://en.wikipedia.org/wiki/Tokyo "Tokyo").
 
     - We now live near Vermont's [**Mt Mansfield**](https://en.wikipedia.org/wiki/Mount_Mansfield){:target="_blank"}. I sometimes [**take pictures**](https://photos.app.goo.gl/5XAN8cZtD3x7Abu79){:target="_blank"} of it.
     
