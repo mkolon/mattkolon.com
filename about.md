@@ -29,9 +29,9 @@ title: About
 - My [professional resume](https://www.linkedin.com/in/mkolon/){:target="_blank"} might be graphically summarized like this:<br><br>
 <img src="/assets/paths.png" alt="Paths" height="100" width="610"> 
 
-- Often with the help of some LLM-based artificial intelligence, [I write a bit of code](https://github.com/mkolon).
-
 - Various (mostly outdoor) [**sports activities**](https://www.strava.com/athletes/25264732){:target="_blank"} are regular preoccupations. 
+
+- Often with the help of some LLM-based artificial intelligence, [I write a bit of code](https://github.com/mkolon){:target="_blank"}.
 
 - A busy middle age interrupted my youthful reading addiction, which I'm [**now feeding again**](https://bit.ly/3Zstavx){:target="_blank"}. 
 
