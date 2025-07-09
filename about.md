@@ -6,13 +6,13 @@ title: About
 # About Matt Kolon
 
 
-- This is my personal site, in place of most social media. 
+- This is my personal site, in place of most social media. It's better this way.
 
 - My email is [**matt@kolon.org**](mailto:matt@kolon.org). I'm also [**boingit.88**](https://signal.me/#eu/0mnzJONCOTGpVnbYwZp3Q4Pesw5uaf-yKadA9FenBbIs76iw4CdI0qzSCuQdIvke) on [**Signal**](https://signal.org/).
 
-- Thank God I met my wife, the amazing artist [**Patty Hudak**](https://www.pattyhudak.com/){:target="_blank"}, in Brookyn in 1991.
+- Thank God I met my wife, the remarkable artist [**Patty Hudak**](https://www.pattyhudak.com/){:target="_blank"}, in Brookyn in 1991.
 
-    - Our offspring are limited to [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://nelliekolon.com/){:target="_blank"}, both quite unlimited.
+    - Our offspring are limited to [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://nelliekolon.com/){:target="_blank"}, each unlimited.
 
     - We see [**many operas**](https://photos.app.goo.gl/oTQZExHTHNWzuFFu7){:target="_blank"} together, mostly at [**The Met**](https://www.metopera.org/){:target="_blank"} in NYC.
     
