@@ -6,7 +6,7 @@ title: About
 # About Matt Kolon
 
 
-- This is my personal site, in place of most social media. It's better this way.
+- This is my personal site, in place of most social media. It's much better this way.
 
 - My email is [**matt@kolon.org**](mailto:matt@kolon.org). I'm also [**boingit.88**](https://signal.me/#eu/0mnzJONCOTGpVnbYwZp3Q4Pesw5uaf-yKadA9FenBbIs76iw4CdI0qzSCuQdIvke) on [**Signal**](https://signal.org/).
 
