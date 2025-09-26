@@ -31,10 +31,10 @@ title: About
 
 - Various (mostly outdoor) [**sports activities**](https://www.strava.com/athletes/25264732){:target="_blank"} are regular preoccupations of mine. 
 
-- Often with the help of some LLM-based artificial intelligence, [I write a bit of code](https://github.com/mkolon){:target="_blank"}.
+- Often with the help of some LLM-based artificial intelligence, [I write some code](https://github.com/mkolon){:target="_blank"}.
 
 - A busy middle age interrupted my youthful reading addiction, which I'm [**now feeding again**](https://bit.ly/3Zstavx){:target="_blank"}. 
 
-- The eternal genius [**Claude Shannon**](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/). 
+- The eternal genius [**Claude Shannon**](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/).
 
   
