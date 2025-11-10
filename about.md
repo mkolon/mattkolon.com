@@ -12,7 +12,7 @@ title: About
 
 - Thank God I met my wife, the remarkable artist [**Patty Hudak**](https://www.pattyhudak.com/){:target="_blank"}, in Brookyn in 1991.
 
-    - Our offspring are limited to [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://nelliekolon.com/){:target="_blank"}, each unlimited.
+    - Our offspring are limited to [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://nelliekolon.com/){:target="_blank"}, both unlimited.
 
     - We see [**many operas**](https://photos.app.goo.gl/oTQZExHTHNWzuFFu7){:target="_blank"} together, mostly at [**The Met**](https://www.metopera.org/){:target="_blank"} in NYC.
     
