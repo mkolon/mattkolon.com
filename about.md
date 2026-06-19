@@ -18,7 +18,7 @@ title: About
     
     - Between 2005 and 2017 we all lived in [香港](https://en.wikipedia.org/wiki/Hong_Kong "Hong Kong"), [北京](https://en.wikipedia.org/wiki/Beijing "Beijing"), and [東京](https://en.wikipedia.org/wiki/Tokyo "Tokyo").
 
-    - We now live near Vermont's [**Mt Mansfield**](https://en.wikipedia.org/wiki/Mount_Mansfield){:target="_blank"}. I sometimes [**take pictures**](https://photos.app.goo.gl/5XAN8cZtD3x7Abu79){:target="_blank"} of it.
+    - We now live near Vermont's [**Mt Mansfield**](https://en.wikipedia.org/wiki/Mount_Mansfield){:target="_blank"}. I sometimes [**take pictures**](https://photos.app.goo.gl/5XAN8cZtD3x7Abu79){:target="_blank"} of it. There are [**many animals**](https://photos.app.goo.gl/zu9fcjeejZeKFK9k9){:target="_blank"} nearby.
     
     - In Beijing we were acquired by a cat. We have followed her across three<br>countries and an ocean. She [likes dessert](/assets/kiki.mov) and has [quite a pedigree](/assets/kiki.png).
   
