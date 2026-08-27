@@ -1,10 +1,10 @@
 - name: Home
   link: /
 - name: About
-  link: /about.html
+  link: /about/
 - name: Ephemera
-  link: /blog.html
+  link: /blog/
 - name: Pics
   link: https://photos.app.goo.gl/jEQXDtaZiGBmcbLg8
 - name: Links
-  link: /links.html
+  link: /links/
