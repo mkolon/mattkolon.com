@@ -12,7 +12,7 @@ title: About
 
 - Thank God I met my wife, the remarkable artist [**Patty Hudak**](https://www.pattyhudak.com/){:target="_blank"}, in Brookyn in 1991.
 
-    - Our offspring are limited to [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://nelliekolon.com/){:target="_blank"}, both unlimited.
+    - Our offspring are limited to [**Carl Kolon**](https://carlkolon.com){:target="_blank"} and [**Nellie Kolon**](https://nelliekolon.com/){:target="_blank"}, both truly unlimited.
 
     - We see [**many operas**](https://photos.app.goo.gl/oTQZExHTHNWzuFFu7){:target="_blank"} together, mostly at [**The Met**](https://www.metopera.org/){:target="_blank"} in NYC.
     
@@ -22,7 +22,7 @@ title: About
     
     - In Beijing we were acquired by a cat. We have followed her across three<br>countries and an ocean. She [likes dessert](/assets/kiki.mov) and has [quite a pedigree](/assets/kiki.png).
   
-- [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell,<br>and regulate telecommunications and networking solutions. I'm the CTO there. I also teach classes on telecom and networking topics.
+- [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell, and regulate telecommunications and networking solutions. I'm the CTO there. I also teach classes on telecom and networking topics.
 
 - I'm a founding board member of [**Mansfield Community Fiber**](https://www.mcfibervt.com/){:target="_blank"}.
 
