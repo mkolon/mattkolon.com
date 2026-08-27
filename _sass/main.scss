@@ -128,10 +128,30 @@ p {
 }
 
 // the line right after a post's H1 reads as its deck/subtitle
-h1 + p {
+// the line right after a post's H1 reads as its deck/subtitle.
+// Scoped to <article> (the post layout) so it doesn't also grab
+// ordinary pages like links.md, where a heading is just followed
+// by ordinary body text, not a deck.
+article > h1 + p {
   color: var(--muted);
   font-size: 1.15em;
   margin-bottom: 32px;
+}
+
+// 404 keeps its current look (a muted line under "404") on its own terms
+.not-found h1 + p {
+  color: var(--muted);
+  font-size: 1.15em;
+  margin-bottom: 32px;
+}
+
+// A labeled sub-section within a page's body copy (e.g. the two
+// groupings on the Links page). Tag a line with {:.section-label}
+// wherever you want this look — it's opt-in, not tied to position.
+.section-label {
+  color: var(--muted);
+  font-size: 1.15em;
+  margin-bottom: 12px;
 }
 
 hr {

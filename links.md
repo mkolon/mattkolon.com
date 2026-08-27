@@ -5,6 +5,8 @@ title: Links
 
 # Links
 The eternal ones:
+{:.section-label}
+
 - My wife, the artist [Patty Hudak](https://www.pattyhudak.com/){:target="_blank"}
 - Our daughter [Nellie Kolon](https://nelliekolon.com){:target="_blank"} amazes me every day. 
 - Our son [Carl Kolon](https://carlkolon.com){:target="_blank"}. He's something else.
@@ -14,6 +16,7 @@ The eternal ones:
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"} is still mostly written by humans. We should cherish it.
 
 Various shareable obsessions of the moment:
+{:.section-label}
 
 - #1 daughter's startup: [Deleon Technologies, Inc.](https://deleon-omics.com/){:target="_blank"}
 - Network-wide ad blocking with [Pi-hole](https://pi-hole.net/)
