@@ -22,9 +22,9 @@ title: About
     
     - In Beijing we were acquired by a cat. We have followed her across three<br>countries and an ocean. She [likes dessert](/assets/kiki.mov) and has [quite a pedigree](/assets/kiki.png).
   
-- [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell,<br>and regulate telecommunications and networking solutions. I'm the CTO there.
+- [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell,<br>and regulate telecommunications and networking solutions. I'm the CTO there. I also teach classes on telecom and networking topics.
 
-- I'm also a founding board member of [**Mansfield Community Fiber**](https://www.mcfibervt.com/){:target="_blank"}.
+- I'm a founding board member of [**Mansfield Community Fiber**](https://www.mcfibervt.com/){:target="_blank"}.
 
 - My [professional resume](https://www.linkedin.com/in/mkolon/){:target="_blank"} might be graphically summarized like this:<br><br>
 <img src="/assets/paths.png" alt="Paths" height="100" width="610"> 
