@@ -165,11 +165,21 @@ ul, ol {
 }
 
 li {
-  margin-bottom: 10px;
+  margin-bottom: 8.625px;
 }
 
 li li {
-  margin-top: 10px;
+  margin-top: 8.625px;
+}
+
+// about.md / links.md bullets are separated by blank lines, so kramdown
+// wraps each item's text in its own <p>. That <p> then adds its full
+// 20px bottom margin on top of the <li> gap, making these list-heavy
+// pages read much looser than the paragraph-driven posts. Collapse the
+// margin on a leaf bullet's paragraph so the <li> rule alone sets the
+// rhythm; a <p> that's followed by a nested <ul> keeps its margin.
+li > p:last-child {
+  margin-bottom: 0;
 }
 
 a {
