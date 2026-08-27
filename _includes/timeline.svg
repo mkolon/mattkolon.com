@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 912 176" width="912" height="176" role="img" aria-label="A career timeline from the 20th century to the 21st, showing role (geek, drone, exec, geek), company (#%@, Hill Associates, Juniper Networks, Cisco, Brocade, Hill Associates), and home airport (JFK, BTV, HKG, PEK, NRT, BTV or LGA) over time.">
+  <style>
+    .lbl { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; fill: #6b6350; }
+    .row-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #6b6350; text-anchor: end; }
+    .seg { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #262218; text-anchor: middle; }
+    .era { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; fill: #262218; text-anchor: middle; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="911" height="175" rx="10" fill="#fffdf8" stroke="#e4dcca"></rect>
+
+  <!-- row labels -->
+  <text x="126" y="35" class="row-label">Century:</text>
+  <text x="126" y="69" class="row-label">Role:</text>
+  <text x="126" y="107" class="row-label">Company:</text>
+  <text x="126" y="145" class="row-label">Airport:</text>
+
+  <!-- ===== Century row ===== -->
+  <line x1="136" y1="16" x2="896" y2="16" stroke="#e4dcca"></line>
+  <line x1="331.9" y1="16" x2="331.9" y2="46" stroke="#c9c0a8"></line>
+  <text x="233.9" y="35" class="era">20th</text>
+  <text x="613.9" y="35" class="era">21st</text>
+  <line x1="136" y1="46" x2="896" y2="46" stroke="#e4dcca"></line>
+
+  <!-- ===== Role row ===== -->
+  <g stroke="#fffdf8" stroke-width="1">
+    <rect x="136"   y="46" width="195.9" height="38" fill="#f0d3c2"></rect>
+    <rect x="331.9" y="46" width="141.8" height="38" fill="#ddd8ca"></rect>
+    <rect x="473.7" y="46" width="279.4" height="38" fill="#c7d2df"></rect>
+    <rect x="753.1" y="46" width="142.9" height="38" fill="#f0d3c2"></rect>
+  </g>
+  <text x="233.9" y="69" class="seg">geek</text>
+  <text x="402.8" y="69" class="seg">drone</text>
+  <text x="613.4" y="69" class="seg">exec</text>
+  <text x="824.5" y="69" class="seg">geek</text>
+  <line x1="136" y1="84" x2="896" y2="84" stroke="#e4dcca"></line>
+
+  <!-- ===== Company row ===== -->
+  <g stroke="#fffdf8" stroke-width="1">
+    <rect x="136"   y="84" width="94.7"  height="38" fill="#efe3c9"></rect>
+    <rect x="230.7" y="84" width="76.2"  height="38" fill="#cfe0d8"></rect>
+    <rect x="306.9" y="84" width="213.3" height="38" fill="#c3d6ea"></rect>
+    <rect x="520.2" y="84" width="75.1"  height="38" fill="#d9cfe6"></rect>
+    <rect x="595.3" y="84" width="158.4" height="38" fill="#e8d3c0"></rect>
+    <rect x="753.7" y="84" width="142.3" height="38" fill="#cfe0d8"></rect>
+  </g>
+  <text x="183.4" y="107" class="seg">#%@</text>
+  <text x="268.8" y="107" class="seg" font-size="11">Hill</text>
+  <text x="413.6" y="107" class="seg">Juniper Networks</text>
+  <text x="557.7" y="107" class="seg" font-size="11">Cisco</text>
+  <text x="674.5" y="107" class="seg" font-size="11">Brocade</text>
+  <text x="824.9" y="107" class="seg" font-size="11">Hill</text>
+  <line x1="136" y1="122" x2="896" y2="122" stroke="#e4dcca"></line>
+
+  <!-- ===== Airport row ===== -->
+  <g stroke="#fffdf8" stroke-width="1">
+    <rect x="136"   y="122" width="94.7"  height="38" fill="#cfe0ee"></rect>
+    <rect x="230.7" y="122" width="171"   height="38" fill="#d3e3c9"></rect>
+    <rect x="401.7" y="122" width="72"    height="38" fill="#e8c9c4"></rect>
+    <rect x="473.7" y="122" width="181.2" height="38" fill="#e3b9ae"></rect>
+    <rect x="654.9" y="122" width="98.8"  height="38" fill="#f0e6d2"></rect>
+    <rect x="753.7" y="122" width="142.3" height="38" fill="#d3e3c9"></rect>
+  </g>
+  <text x="183.4" y="145" class="seg">JFK</text>
+  <text x="316.2" y="145" class="seg">BTV</text>
+  <text x="437.7" y="145" class="seg" font-size="11">HKG</text>
+  <text x="564.3" y="145" class="seg">PEK</text>
+  <text x="704.3" y="145" class="seg" font-size="11">NRT</text>
+  <text x="824.9" y="145" class="seg" font-size="11">BTV / LGA</text>
+  <line x1="136" y1="160" x2="896" y2="160" stroke="#e4dcca"></line>
+
+  <!-- outer frame for the whole grid -->
+  <rect x="136" y="16" width="760" height="144" fill="none" stroke="#e4dcca"></rect>
+</svg>

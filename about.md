@@ -26,8 +26,11 @@ title: About
 
 - I'm a founding board member of [**Mansfield Community Fiber**](https://www.mcfibervt.com/){:target="_blank"}.
 
-- My [professional resume](https://www.linkedin.com/in/mkolon/){:target="_blank"} might be graphically summarized like this:<br><br>
-<img src="/assets/paths.png" alt="Paths" height="100" width="610"> 
+- My [professional resume](https://www.linkedin.com/in/mkolon/){:target="_blank"} might be graphically summarized like this:
+
+<div class="timeline-wrap">
+{% include timeline.svg %}
+</div>
 
 - Various (mostly outdoor) [**sports activities**](https://www.strava.com/athletes/25264732){:target="_blank"} are regular preoccupations of mine. 
 
