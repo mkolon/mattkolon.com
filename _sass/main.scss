@@ -1,33 +1,262 @@
+// ============================================================
+// mattkolon.com — design system
+// One shared stylesheet for every page (home, about, ephemera,
+// posts, links, 404). Palette lives in CSS custom properties so
+// the whole site can respond to the reader's light/dark setting
+// as one consistent unit, rather than mismatched pieces.
+// ============================================================
+
+:root {
+  --bg: #faf6ef;
+  --bg-raised: #f2ece0;
+  --fg: #262218;
+  --muted: #7a7263;
+  --rule: #e4dcca;
+  --accent: #b5501f;
+  --accent-strong: #963f16;
+  --visited: #8a5a3a;
+  --link-underline: rgba(181, 80, 31, 0.35);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1c1a16;
+    --bg-raised: #262319;
+    --fg: #ece6d9;
+    --muted: #a89d89;
+    --rule: #3a352a;
+    --accent: #e08a52;
+    --accent-strong: #f0a06a;
+    --visited: #c99a78;
+    --link-underline: rgba(224, 138, 82, 0.35);
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
 body {
-  color: black;
-  background-color:#fcecfc;
-  font-family: Arial, Helvetica, sans-serif;
-  width: 800px;
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.4;
+}
+
+img, svg {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.timeline-wrap {
+  margin: 24px 0;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 24px 80px;
+}
+
+// ---- Nav ----------------------------------------------------
+
+nav.site-nav {
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 40px;
+}
+
+nav.site-nav .container {
+  padding-top: 22px;
+  padding-bottom: 18px;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+nav.site-nav a {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  padding-bottom: 2px;
+  border-bottom: 2px solid transparent;
+}
+
+nav.site-nav a:visited {
+  color: var(--muted);
+}
+
+nav.site-nav a:hover {
+  color: var(--fg);
+}
+
+nav.site-nav a.current {
+  color: var(--fg);
+  border-bottom-color: var(--accent);
+}
+
+// ---- Type -----------------------------------------------------
+
+h1, h2, h3 {
+  line-height: 1.25;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0 0 8px;
+}
 
 h2 {
-  margin-bottom: -10px
-  }
-  
-.skinny-line {
-	margin-bottom: -12px
-	}
+  font-size: 1.25em;
+  margin: 0 0 4px;
+}
 
-a:link {
-  text-decoration: none;
-  font-weight: bold;
-  color: blue;
-  }
-  
+p {
+  margin: 0 0 20px;
+}
+
+// the line right after a post's H1 reads as its deck/subtitle
+h1 + p {
+  color: var(--muted);
+  font-size: 1.15em;
+  margin-bottom: 32px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 32px 0;
+}
+
+ul, ol {
+  padding-left: 1.3em;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+li li {
+  margin-top: 10px;
+}
+
+a {
+  color: var(--accent);
+  text-decoration-color: var(--link-underline);
+  text-underline-offset: 2px;
+}
+
 a:visited {
-  color: "#222222";
-  text-decoration: none;
-  font-weight: bold;
-  }  
-  
+  color: var(--visited);
+}
+
 a:hover {
-  color: BlueViolet;
+  color: var(--accent-strong);
+  text-decoration-color: currentColor;
+}
+
+.meta {
+  color: var(--muted);
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+// ---- Homepage hero -------------------------------------------
+
+.hero-figure {
+  margin: 0 0 12px;
+}
+
+.hero-figure img {
+  border-radius: 10px;
+  border: 1px solid var(--rule);
+}
+
+// ---- Ephemera / post index -------------------------------------
+
+.post-index {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.post-index li {
+  margin: 0;
+  padding: 22px 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.post-index li:first-child {
+  padding-top: 0;
+}
+
+.post-index .meta {
+  margin-bottom: 6px;
+}
+
+.post-index h2 {
+  margin-bottom: 6px;
+}
+
+.post-index h2 a {
+  color: var(--fg);
   text-decoration: none;
-  font-weight: bold;
+}
+
+.post-index h2 a:visited {
+  color: var(--fg);
+}
+
+.post-index h2 a:hover {
+  color: var(--accent);
+}
+
+.post-index p {
+  margin: 0;
+  color: var(--muted);
+}
+
+// ---- 404 --------------------------------------------------------
+
+.not-found {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.not-found h1 {
+  font-size: 4em;
+  margin-bottom: 16px;
+}
+
+.not-found img {
+  margin: 24px auto;
+  border-radius: 10px;
+}
+
+// ---- small screens ------------------------------------------------
+
+@media (max-width: 480px) {
+  body {
+    font-size: 16px;
   }
-  
+
+  h1 {
+    font-size: 1.6em;
+  }
+
+  nav.site-nav a {
+    font-size: 13px;
+  }
 }
