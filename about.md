@@ -33,7 +33,7 @@ permalink: /about/
 {% include timeline.svg %}
 </div>
 
-- Various (mostly outdoor) [**recreational activities**](https://www.strava.com/athletes/25264732){:target="_blank"} are preoccupations of mine. 
+- Various (mostly outdoor) [**recreational activities**](https://www.strava.com/athletes/25264732){:target="_blank"} preoccupy me. 
 
 - Often with the help of some LLM-based artificial intelligence, I write [**some code**](https://github.com/mkolon){:target="_blank"}.
 
