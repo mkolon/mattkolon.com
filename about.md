@@ -17,7 +17,7 @@ permalink: /about/
 
     - We see [many operas](https://photos.app.goo.gl/oTQZExHTHNWzuFFu7){:target="_blank"} together, mostly at [The Met](https://www.metopera.org/){:target="_blank"} in NYC.
     
-    - Between 2005 and 2017 we all lived in [香港](https://en.wikipedia.org/wiki/Hong_Kong "Hong Kong"), [北京](https://en.wikipedia.org/wiki/Beijing "Beijing"), and [東京](https://en.wikipedia.org/wiki/Tokyo "Tokyo").
+    - Between 2005 and 2017 our family lived in [香港](https://en.wikipedia.org/wiki/Hong_Kong "Hong Kong"), [北京](https://en.wikipedia.org/wiki/Beijing "Beijing"), and [東京](https://en.wikipedia.org/wiki/Tokyo "Tokyo").
 
     - We now live near Vermont's [Mt Mansfield](https://en.wikipedia.org/wiki/Mount_Mansfield){:target="_blank"}. I sometimes [take pictures](https://photos.app.goo.gl/5XAN8cZtD3x7Abu79){:target="_blank"} of it.<br> There are [many animals](https://photos.app.goo.gl/zu9fcjeejZeKFK9k9){:target="_blank"} nearby.
     
