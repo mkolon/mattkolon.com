@@ -21,7 +21,7 @@ permalink: /about/
 
     - We now live near Vermont's [**Mt Mansfield**](https://en.wikipedia.org/wiki/Mount_Mansfield){:target="_blank"}. I sometimes [**take pictures**](https://photos.app.goo.gl/5XAN8cZtD3x7Abu79){:target="_blank"} of it.<br> There are [**many animals**](https://photos.app.goo.gl/zu9fcjeejZeKFK9k9){:target="_blank"} nearby.
     
-    - In Beijing we were acquired by a cat. We have followed her across three countries and an ocean. She [**likes dessert**](/assets/kiki.mov) and has [**quite a pedigree**](/assets/kiki.png), but nothing like her friend [**Rocky's**](/assets/rocky.png).
+    - In Beijing we were acquired by a cat. She [**likes dessert**](/assets/kiki.mov) and has [**quite a pedigree**](/assets/kiki.png), but nothing like her friend [**Rocky's**](/assets/rocky.png).
   
 - [**Hill Associates**](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell, and regulate telecommunications and networking solutions. I'm the CTO there. I also teach classes on telecom and networking topics.
 
