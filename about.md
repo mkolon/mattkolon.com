@@ -39,6 +39,6 @@ permalink: /about/
 
 - A busy middle age interrupted my youthful reading addiction, which I'm [**now feeding again**](https://bit.ly/3Zstavx){:target="_blank"}. 
 
-- The eternal genius [**Claude Shannon**](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/).
+- The eternal genius [**Claude Shannon**](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [**high school**](https://ghs.gaylordschools.com/).
 
   
