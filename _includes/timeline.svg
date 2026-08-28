@@ -1,12 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 912 176" width="912" height="176" role="img" aria-label="A career timeline from the 20th century to the 21st, showing role (geek, drone, exec, geek), company (#%@, Hill Associates, Juniper Networks, Cisco, Brocade, Hill Associates), and home airport (JFK, BTV, HKG, PEK, NRT, BTV or LGA) over time.">
+<svg xmlns="http://www.w3.org/2000/svg" class="fig" viewBox="0 0 912 176" width="912" height="176" role="img" aria-label="A career timeline from the 20th century to the 21st, showing role (geek, drone, exec, geek), company (#%@, Hill Associates, Juniper Networks, Cisco, Brocade, Hill Associates), and home airport (JFK, BTV, HKG, PEK, NRT, BTV or LGA) over time.">
   <style>
-    .lbl { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; fill: #6b6350; }
-    .row-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12.5px; font-weight: 600; fill: #6b6350; text-anchor: end; }
-    .seg { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #262218; text-anchor: middle; }
-    .era { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700; fill: #262218; text-anchor: middle; }
+    .fig text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .fig .row-label { font-size: 12.5px; font-weight: 600; fill: #6b6350; text-anchor: end; }
+    .fig .seg { font-size: 13px; font-weight: 600; fill: #262218; text-anchor: middle; }
+    .fig .era { font-size: 14px; font-weight: 700; fill: #262218; text-anchor: middle; }
+    .fig .panel { fill: #fffdf8; stroke: #e4dcca; }
+    .fig .grid { stroke: #e4dcca; }
+    .fig .grid-strong { stroke: #c9c0a8; }
+    .fig .seg-sep { stroke: #fffdf8; stroke-width: 1; }
+
+    .fig .s-geek  { fill: #f0d3c2; }
+    .fig .s-drone { fill: #ddd8ca; }
+    .fig .s-exec  { fill: #c7d2df; }
+    .fig .co-1 { fill: #efe3c9; }
+    .fig .co-2 { fill: #cfe0d8; }
+    .fig .co-3 { fill: #c3d6ea; }
+    .fig .co-4 { fill: #d9cfe6; }
+    .fig .co-5 { fill: #e8d3c0; }
+    .fig .ap-1 { fill: #cfe0ee; }
+    .fig .ap-2 { fill: #d3e3c9; }
+    .fig .ap-3 { fill: #e8c9c4; }
+    .fig .ap-4 { fill: #e3b9ae; }
+    .fig .ap-5 { fill: #f0e6d2; }
+
+    @media (prefers-color-scheme: dark) {
+      .fig .row-label { fill: #a89d89; }
+      .fig .seg  { fill: #ece6d9; }
+      .fig .era  { fill: #ece6d9; }
+      .fig .panel { fill: #262319; stroke: #3a352a; }
+      .fig .grid { stroke: #3a352a; }
+      .fig .grid-strong { stroke: #4a4436; }
+      .fig .seg-sep { stroke: #262319; }
+
+      .fig .s-geek  { fill: #5a3f30; }
+      .fig .s-drone { fill: #464034; }
+      .fig .s-exec  { fill: #3b4652; }
+      .fig .co-1 { fill: #4d4530; }
+      .fig .co-2 { fill: #354a41; }
+      .fig .co-3 { fill: #374857; }
+      .fig .co-4 { fill: #443c52; }
+      .fig .co-5 { fill: #544433; }
+      .fig .ap-1 { fill: #3a4b5a; }
+      .fig .ap-2 { fill: #3e4b36; }
+      .fig .ap-3 { fill: #573f3b; }
+      .fig .ap-4 { fill: #5e423b; }
+      .fig .ap-5 { fill: #4f4835; }
+    }
   </style>
 
-  <rect x="0.5" y="0.5" width="911" height="175" rx="10" fill="#fffdf8" stroke="#e4dcca"></rect>
+  <rect x="0.5" y="0.5" width="911" height="175" rx="10" class="panel"></rect>
 
   <!-- row labels -->
   <text x="126" y="35" class="row-label">Century:</text>
@@ -15,33 +57,33 @@
   <text x="126" y="145" class="row-label">Airport:</text>
 
   <!-- ===== Century row ===== -->
-  <line x1="136" y1="16" x2="896" y2="16" stroke="#e4dcca"></line>
-  <line x1="331.9" y1="16" x2="331.9" y2="46" stroke="#c9c0a8"></line>
+  <line x1="136" y1="16" x2="896" y2="16" class="grid"></line>
+  <line x1="331.9" y1="16" x2="331.9" y2="46" class="grid-strong"></line>
   <text x="233.9" y="35" class="era">20th</text>
   <text x="613.9" y="35" class="era">21st</text>
-  <line x1="136" y1="46" x2="896" y2="46" stroke="#e4dcca"></line>
+  <line x1="136" y1="46" x2="896" y2="46" class="grid"></line>
 
   <!-- ===== Role row ===== -->
-  <g stroke="#fffdf8" stroke-width="1">
-    <rect x="136"   y="46" width="195.9" height="38" fill="#f0d3c2"></rect>
-    <rect x="331.9" y="46" width="141.8" height="38" fill="#ddd8ca"></rect>
-    <rect x="473.7" y="46" width="279.4" height="38" fill="#c7d2df"></rect>
-    <rect x="753.1" y="46" width="142.9" height="38" fill="#f0d3c2"></rect>
+  <g class="seg-sep">
+    <rect x="136"   y="46" width="195.9" height="38" class="s-geek"></rect>
+    <rect x="331.9" y="46" width="141.8" height="38" class="s-drone"></rect>
+    <rect x="473.7" y="46" width="279.4" height="38" class="s-exec"></rect>
+    <rect x="753.1" y="46" width="142.9" height="38" class="s-geek"></rect>
   </g>
   <text x="233.9" y="69" class="seg">geek</text>
   <text x="402.8" y="69" class="seg">drone</text>
   <text x="613.4" y="69" class="seg">exec</text>
   <text x="824.5" y="69" class="seg">geek</text>
-  <line x1="136" y1="84" x2="896" y2="84" stroke="#e4dcca"></line>
+  <line x1="136" y1="84" x2="896" y2="84" class="grid"></line>
 
   <!-- ===== Company row ===== -->
-  <g stroke="#fffdf8" stroke-width="1">
-    <rect x="136"   y="84" width="94.7"  height="38" fill="#efe3c9"></rect>
-    <rect x="230.7" y="84" width="76.2"  height="38" fill="#cfe0d8"></rect>
-    <rect x="306.9" y="84" width="213.3" height="38" fill="#c3d6ea"></rect>
-    <rect x="520.2" y="84" width="75.1"  height="38" fill="#d9cfe6"></rect>
-    <rect x="595.3" y="84" width="158.4" height="38" fill="#e8d3c0"></rect>
-    <rect x="753.7" y="84" width="142.3" height="38" fill="#cfe0d8"></rect>
+  <g class="seg-sep">
+    <rect x="136"   y="84" width="94.7"  height="38" class="co-1"></rect>
+    <rect x="230.7" y="84" width="76.2"  height="38" class="co-2"></rect>
+    <rect x="306.9" y="84" width="213.3" height="38" class="co-3"></rect>
+    <rect x="520.2" y="84" width="75.1"  height="38" class="co-4"></rect>
+    <rect x="595.3" y="84" width="158.4" height="38" class="co-5"></rect>
+    <rect x="753.7" y="84" width="142.3" height="38" class="co-2"></rect>
   </g>
   <text x="183.4" y="107" class="seg">#%@</text>
   <text x="268.8" y="107" class="seg" font-size="11">Hill</text>
@@ -49,16 +91,16 @@
   <text x="557.7" y="107" class="seg" font-size="11">Cisco</text>
   <text x="674.5" y="107" class="seg" font-size="11">Brocade</text>
   <text x="824.9" y="107" class="seg" font-size="11">Hill</text>
-  <line x1="136" y1="122" x2="896" y2="122" stroke="#e4dcca"></line>
+  <line x1="136" y1="122" x2="896" y2="122" class="grid"></line>
 
   <!-- ===== Airport row ===== -->
-  <g stroke="#fffdf8" stroke-width="1">
-    <rect x="136"   y="122" width="94.7"  height="38" fill="#cfe0ee"></rect>
-    <rect x="230.7" y="122" width="171"   height="38" fill="#d3e3c9"></rect>
-    <rect x="401.7" y="122" width="72"    height="38" fill="#e8c9c4"></rect>
-    <rect x="473.7" y="122" width="181.2" height="38" fill="#e3b9ae"></rect>
-    <rect x="654.9" y="122" width="98.8"  height="38" fill="#f0e6d2"></rect>
-    <rect x="753.7" y="122" width="142.3" height="38" fill="#d3e3c9"></rect>
+  <g class="seg-sep">
+    <rect x="136"   y="122" width="94.7"  height="38" class="ap-1"></rect>
+    <rect x="230.7" y="122" width="171"   height="38" class="ap-2"></rect>
+    <rect x="401.7" y="122" width="72"    height="38" class="ap-3"></rect>
+    <rect x="473.7" y="122" width="181.2" height="38" class="ap-4"></rect>
+    <rect x="654.9" y="122" width="98.8"  height="38" class="ap-5"></rect>
+    <rect x="753.7" y="122" width="142.3" height="38" class="ap-2"></rect>
   </g>
   <text x="183.4" y="145" class="seg">JFK</text>
   <text x="316.2" y="145" class="seg">BTV</text>
@@ -66,8 +108,8 @@
   <text x="564.3" y="145" class="seg">PEK</text>
   <text x="704.3" y="145" class="seg" font-size="11">NRT</text>
   <text x="824.9" y="145" class="seg" font-size="11">BTV / LGA</text>
-  <line x1="136" y1="160" x2="896" y2="160" stroke="#e4dcca"></line>
+  <line x1="136" y1="160" x2="896" y2="160" class="grid"></line>
 
   <!-- outer frame for the whole grid -->
-  <rect x="136" y="16" width="760" height="144" fill="none" stroke="#e4dcca"></rect>
+  <rect x="136" y="16" width="760" height="144" fill="none" class="grid"></rect>
 </svg>
