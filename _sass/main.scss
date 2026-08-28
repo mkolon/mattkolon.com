@@ -197,6 +197,22 @@ a:hover {
   text-decoration-color: currentColor;
 }
 
+// Inline links in body copy (about.md, links.md, post prose) need to
+// read as clickable at a glance, not just on close inspection. Color
+// alone is a weak signal — bumping the weight and thickening the
+// underline gives them real visual weight without going full bold.
+// Scoped to p/li so it doesn't touch nav links or post-index titles,
+// which already have their own treatment.
+p a, li a {
+  font-weight: 600;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: var(--link-underline);
+}
+
+p a:hover, li a:hover {
+  text-decoration-color: currentColor;
+}
+
 .meta {
   color: var(--muted);
   font-size: 14px;
