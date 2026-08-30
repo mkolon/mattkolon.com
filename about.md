@@ -37,7 +37,7 @@ permalink: /about/
 
 - Often with the help of some LLM-based artificial intelligence, I write [some code](https://github.com/mkolon){:target="_blank"}.
 
-- A busy middle age interrupted the reading addiction of my youth. I'm [now feeding it again](https://bit.ly/3Zstavx){:target="_blank"}. 
+- When I was young, I read a lot, but life gets busy. Now, I'm [reading more again](https://bit.ly/3Zstavx){:target="_blank"}. 
 
 - The eternal genius [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/).
 
