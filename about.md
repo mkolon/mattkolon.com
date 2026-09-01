@@ -24,7 +24,7 @@ permalink: /about/
     
     - In Beijing we were acquired by a cat. She [likes dessert](/assets/kiki.mov) and has [quite a pedigree](/assets/kiki.png), but nothing like her friend [Rocky's](/assets/rocky.png).
   
-- [Hill Associates](https://www.hillvt.com/){:target="_blank"} creates programs that teach people how to build, run, secure, sell, and regulate telecommunications and networking solutions. I'm the CTO there. I also teach classes on telecom and networking topics.
+- [Hill Associates](https://www.hillvt.com/){:target="_blank"} teaches people how to build, run, secure, sell, and regulate telecommunications and networking solutions. I'm the CTO there. I also teach classes on telecom and networking topics.
 
 - I'm a founding board member of [Mansfield Community Fiber](https://www.mcfibervt.com/){:target="_blank"}.
 
@@ -38,7 +38,7 @@ permalink: /about/
 
 - Often with the help of some LLM-based artificial intelligence, I write [some code](https://github.com/mkolon){:target="_blank"}.
 
-- When I was young, I read a lot, but life got busy. Now I'm [reading more again](https://bit.ly/3Zstavx){:target="_blank"}. 
+- When I was young, I read a lot, but life got busy. I'm [reading more again](https://bit.ly/3Zstavx){:target="_blank"} now. 
 
 - The eternal genius [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/).
 
