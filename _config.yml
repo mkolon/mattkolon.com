@@ -27,6 +27,10 @@ baseurl: ""
 url: "https://mattkolon.com"
 github_username: mkolon
 
+# Analytics: GoatCounter subdomain code (https://<code>.goatcounter.com).
+# Leave blank to disable. The count script skips localhost automatically.
+goatcounter: mattkolon
+
 # Build settings
 theme: minima
 plugins:
