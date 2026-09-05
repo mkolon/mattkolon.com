@@ -21,8 +21,9 @@
 title: MattKolon.com
 email: matt@kolon.org
 description: >-
-  Matt Kolon's personal site: ephemera, opinions, and the occasional
-  taxi queue.
+  Matt Kolon — CTO at Hill Associates, network and telecom security
+  instructor, ex-Juniper, Cisco, Brocade.
+  Personal site with essays, photos, and links from Vermont.
 baseurl: ""
 url: "https://mattkolon.com"
 github_username: mkolon
@@ -35,6 +36,7 @@ goatcounter: mattkolon
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

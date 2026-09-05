@@ -40,6 +40,6 @@ permalink: /about/
 
 - When I was young, I read a lot, but life got busy. I'm [reading more again](https://bit.ly/3Zstavx){:target="_blank"} now. 
 
-- The eternal genius [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/).
+- The eternal genius [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/)..
 
   
