@@ -19,6 +19,7 @@ The eternal ones:
 Various shareable obsessions of the moment:
 {:.section-label}
 
+- The best [floor protector](https://www.ikea.com/us/en/p/kolon-floor-protector-44881100/)
 - #1 daughter's startup: [Deleon Technologies, Inc.](https://deleon-omics.com/){:target="_blank"}
 - Network-wide ad blocking with [Pi-hole](https://pi-hole.net/)
 - [Home Assistant](https://www.home-assistant.io/)
