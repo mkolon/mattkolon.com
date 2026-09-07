@@ -1,0 +1,80 @@
+#!/usr/bin/env bash
+# Build a 1200x630 social-share card (JPEG) from a source image.
+#
+#   bin/card <source-image> <name>        -> assets/cards/<name>.jpg   (fit + white pad)
+#   bin/card <source-image> <name> crop   -> center-crop to fill the frame instead
+#
+# Bakes in EXIF orientation (phone photos shot sideways come out upright) and
+# strips the orientation tag, so crawlers that ignore EXIF still render it right.
+# macOS only -- uses `sips` and the system `python3`.
+set -euo pipefail
+
+src=${1:?usage: bin/card <source-image> <name> [crop]}
+name=${2:?usage: bin/card <source-image> <name> [crop]}
+mode=${3:-pad}
+
+root=$(cd "$(dirname "$0")/.." && pwd)
+out="$root/assets/cards/$name.jpg"
+mkdir -p "$root/assets/cards"
+tmp=$(mktemp -d); trap 'rm -rf "$tmp"' EXIT
+cp "$src" "$tmp/w.jpg"
+
+# --- normalise orientation -------------------------------------------------
+deg=$(python3 - "$tmp/w.jpg" <<'PY'
+import struct, sys
+d = open(sys.argv[1], 'rb').read()
+i = d.find(b'Exif\x00\x00')
+o = 1
+if i >= 0:
+    t = i + 6
+    bo = '>' if d[t:t+2] == b'MM' else '<'
+    off = struct.unpack(bo+'I', d[t+4:t+8])[0]
+    n = struct.unpack(bo+'H', d[t+off:t+off+2])[0]
+    for k in range(n):
+        e = t + off + 2 + k*12
+        if struct.unpack(bo+'H', d[e:e+2])[0] == 0x0112:
+            o = struct.unpack(bo+'H', d[e+8:e+10])[0]
+print({3: 180, 6: 90, 8: 270}.get(o, 0))
+PY
+)
+[ "$deg" != 0 ] && sips -r "$deg" "$tmp/w.jpg" >/dev/null
+python3 - "$tmp/w.jpg" <<'PY'
+import struct, sys
+fn = sys.argv[1]
+d = bytearray(open(fn, 'rb').read())
+i = d.find(b'Exif\x00\x00')
+if i >= 0:
+    t = i + 6
+    bo = '>' if d[t:t+2] == b'MM' else '<'
+    off = struct.unpack(bo+'I', d[t+4:t+8])[0]
+    n = struct.unpack(bo+'H', d[t+off:t+off+2])[0]
+    for k in range(n):
+        e = t + off + 2 + k*12
+        if struct.unpack(bo+'H', d[e:e+2])[0] == 0x0112:
+            struct.pack_into(bo+'H', d, e+8, 1)
+            open(fn, 'wb').write(d)
+            break
+PY
+
+# --- resize to the 1200x630 frame ---------------------------------------------
+W=$(sips -g pixelWidth  "$tmp/w.jpg" | awk '/pixelWidth/{print $2}')
+H=$(sips -g pixelHeight "$tmp/w.jpg" | awk '/pixelHeight/{print $2}')
+
+if [ "$mode" = crop ]; then
+  if [ $((W * 630)) -lt $((H * 1200)) ]; then
+    sips --resampleWidth 1200 "$tmp/w.jpg" >/dev/null
+  else
+    sips --resampleHeight 630 "$tmp/w.jpg" >/dev/null
+  fi
+  sips -c 630 1200 "$tmp/w.jpg" --out "$out" >/dev/null
+else
+  sips -Z 1200 "$tmp/w.jpg" >/dev/null
+  h=$(sips -g pixelHeight "$tmp/w.jpg" | awk '/pixelHeight/{print $2}')
+  [ "$h" -gt 630 ] && sips --resampleHeight 630 "$tmp/w.jpg" >/dev/null
+  sips -p 630 1200 --padColor FFFFFF "$tmp/w.jpg" --out "$out" >/dev/null 2>&1
+fi
+sips -s formatOptions 72 "$out" --out "$out" >/dev/null
+
+printf 'wrote %s  ' "${out#$root/}"
+sips -g pixelWidth -g pixelHeight "$out" | awk '/pixel/{printf "%s ", $2}'
+echo "($(du -h "$out" | cut -f1))"
