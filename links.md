@@ -12,7 +12,7 @@ The eternal ones:
 - Our daughter [Nellie Kolon](https://nelliekolon.com){:target="_blank"} amazes me every day. 
 - Our son [Carl Kolon](https://carlkolon.com){:target="_blank"}. He's something else.
 - Our granddaughter [Florence Lin Kolon](https://florencekolon.com/){:target="_blank"} is no longer a baby.
-- The brilliant [New York Review of Books](https://www.nybooks.com/){:target="_blank"}
+- The brilliant [New York Review of Books](https://www.nybooks.com/){:target="_blank"} is a beacon of light and sanity.
 - People make fun of [The Economist](https://economist.com){:target="_blank"} but there's no better way to stay informed.
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page){:target="_blank"} is still mostly written by humans. We should cherish it.
 
