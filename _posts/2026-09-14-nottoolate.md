@@ -6,6 +6,7 @@ title: Not too Late!
 See great art in the Autumn in Vermont
 
 ***
+<img src="/assets/bnw.jpg">
 
 <img src="/assets/bo.jpg" width="300" alt="Patty Hudak's print titled Botanical Ornaments" style="float: right; max-width: 45%; height: auto; margin: 0 0 1em 1.5em;">
 
