@@ -26,7 +26,7 @@ permalink: /about/
   
 - [Hill Associates](https://www.hillvt.com/){:target="_blank"} teaches people how to build, run, secure, sell, and regulate telecommunications and networking solutions. I'm the CTO there. I also teach classes on telecom and networking topics.
 
-- I'm a founding board member of [Mansfield Community Fiber](https://www.mcfibervt.com/){:target="_blank"}.
+- I'm a founding investor and board member of [Mansfield Community Fiber](https://www.mcfibervt.com/){:target="_blank"}.
 
 - My [professional resume](https://www.linkedin.com/in/mkolon/){:target="_blank"} might be graphically summarized like this:
 
