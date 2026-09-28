@@ -19,6 +19,8 @@ The eternal ones:
 Various shareable obsessions of the moment:
 {:.section-label}
 
+
+- [Dharmaseed](https://dharmaseed.org/). So much wisdom here. They have an app, too.
 - [Eric Topol](https://en.wikipedia.org/wiki/Eric_Topol), cardiologist, head of Scripps research, [great substack on health](https://erictopol.substack.com/) matters.
 - The best [floor protector](https://www.ikea.com/us/en/p/kolon-floor-protector-44881100/)
 - #1 daughter's startup: [Deleon Technologies, Inc.](https://deleon-omics.com/){:target="_blank"}
