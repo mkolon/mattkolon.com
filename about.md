@@ -24,7 +24,7 @@ permalink: /about/
     
     - In Beijing we were acquired by a cat. She [likes dessert](/assets/kiki.mov) and has [quite a pedigree](/assets/kiki.png), but nothing like her friend [Rocky's](/assets/rocky.png).
   
-- [Hill Associates](https://www.hillvt.com/){:target="_blank"} helps organizations know how to build, run, secure, sell, and regulate telecommunications and networking solutions. I'm the CTO there. I also teach classes on telecom, networking, and security topics.
+- [Hill Associates](https://www.hillvt.com/){:target="_blank"} helps organizations build, run, secure, sell, and regulate telecommunications and networking solutions. I'm the CTO there. I also teach classes on telecom, networking, and security topics.
 
 - I'm a founding investor and board member of [Mansfield Community Fiber](https://www.mcfibervt.com/){:target="_blank"}.
 
