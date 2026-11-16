@@ -17,7 +17,7 @@ permalink: /about/
 
     - Between 2005 and 2017 our family lived in [香港](https://en.wikipedia.org/wiki/Hong_Kong "Hong Kong"), [北京](https://en.wikipedia.org/wiki/Beijing "Beijing"), and [東京](https://en.wikipedia.org/wiki/Tokyo "Tokyo").
 
-    - We see [many operas](https://photos.app.goo.gl/oTQZExHTHNWzuFFu7){:target="_blank"} together, mostly at [The Met](https://www.metopera.org/){:target="_blank"} in NYC.
+    - We see [many operas](https://opera.boingit.com/){:target="_blank"} together, mostly at [The Met](https://www.metopera.org/){:target="_blank"} in NYC. We usually [document](https://photos.google.com/share/AF1QipOnmyRT9zl2K7GrFnD2j2q2quYIb2FLLj-dFSin8afJo-R-kZm8zu4_QttxU3zuwA?key=eFNlb21XeHpNa2hRSU9MRVpYZUFiVDVnMHFQWWdR){:target="_blank"} these visits.
     
 
     - We now live near Vermont's [Mt Mansfield](https://en.wikipedia.org/wiki/Mount_Mansfield){:target="_blank"}. I sometimes [take pictures](https://photos.app.goo.gl/5XAN8cZtD3x7Abu79){:target="_blank"} of it.<br> There are [many animals](https://photos.app.goo.gl/zu9fcjeejZeKFK9k9){:target="_blank"} nearby.
@@ -40,6 +40,6 @@ permalink: /about/
 
 - When I was young, I read a lot, but life got busy. I'm [reading more again](https://bit.ly/3Zstavx){:target="_blank"} now. 
 
-- Somehow, the eternal genius [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/), 52 years apart.
+- Somehow the eternal genius [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) and I graduated from the same [high school](https://ghs.gaylordschools.com/), 52 years apart.
 
   
